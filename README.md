@@ -3,7 +3,7 @@ I am Danila Anikin.
 
 ![My Face](https://drive.google.com/uc?export=view&id=18LHfaJeEZhd1b45UdNefVcSSZQs95ZKA)
 
-I am a programmer and I play football.
+I am a programmer.
 
 Here are the links ty my recent projects
   - Calculator: https://dans-server.azurewebsites.net/calculator
