@@ -1,4 +1,3 @@
-# About
 Frontend/Backend Developer
 
 Here are the links to my recent projects
